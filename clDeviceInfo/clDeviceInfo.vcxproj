@@ -132,14 +132,14 @@
     <Image Include="small.ico" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="test_event.cl" />
-    <None Include="test_event_backup.cl" />
-    <None Include="test_image.cl" />
-    <None Include="test_math_integer.cl" />
-    <None Include="test_math_scalar.cl" />
-    <None Include="test_math_vector.cl" />
-    <None Include="test_memflags.cl" />
-    <None Include="test_program.cl" />
+    <None Include="..\test_event.cl" />
+    <None Include="..\test_event_backup.cl" />
+    <None Include="..\test_image.cl" />
+    <None Include="..\test_math_integer.cl" />
+    <None Include="..\test_math_scalar.cl" />
+    <None Include="..\test_math_vector.cl" />
+    <None Include="..\test_memflags.cl" />
+    <None Include="..\test_program.cl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

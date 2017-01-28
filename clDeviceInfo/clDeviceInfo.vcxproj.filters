@@ -131,28 +131,28 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <None Include="test_program.cl">
+    <None Include="..\test_event.cl">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="test_memflags.cl">
+    <None Include="..\test_event_backup.cl">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="test_math_scalar.cl">
+    <None Include="..\test_image.cl">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="test_math_integer.cl">
+    <None Include="..\test_math_integer.cl">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="test_math_vector.cl">
+    <None Include="..\test_math_scalar.cl">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="test_image.cl">
+    <None Include="..\test_math_vector.cl">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="test_event.cl">
+    <None Include="..\test_memflags.cl">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="test_event_backup.cl">
+    <None Include="..\test_program.cl">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
